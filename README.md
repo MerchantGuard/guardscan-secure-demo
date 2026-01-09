@@ -1,25 +1,22 @@
 # GuardScan Secure Demo
 
-This is a demo repository showing **secure vibe-coded patterns**.
+> **Expected Grade: A-**
 
-Scan this repo at [merchantguard.ai/guardscan](https://www.merchantguard.ai/guardscan) to see what an **A- grade** looks like.
+This demo shows **secure coding patterns** - what clean vibe-coded apps look like.
 
-## What This Demo Shows
+## What's Secure Here
 
-- Environment variables for API keys (not hardcoded)
-- Parameterized database queries (no SQL injection)
-- Input validation and sanitization
-- Rate limiting on API endpoints
-- Proper authentication checks
-- CSRF protection
+- Environment variables for API keys (never hardcoded)
+- Prisma ORM for database (no SQL injection)
+- Clean React components
+- No exposed secrets
 
-## Built With
+## Try GuardScan
 
-- Next.js 14
-- TypeScript
-- Prisma ORM
-- NextAuth.js
+1. Go to [merchantguard.ai/guardscan](https://www.merchantguard.ai/guardscan)
+2. Enter: `github.com/MerchantGuard/guardscan-secure-demo`
+3. See a clean scan!
 
 ---
 
-Built by [MerchantGuard](https://merchantguard.ai) - AI-powered security for vibe coders.
+Built by [MerchantGuard](https://merchantguard.ai) - Security for vibe coders.
